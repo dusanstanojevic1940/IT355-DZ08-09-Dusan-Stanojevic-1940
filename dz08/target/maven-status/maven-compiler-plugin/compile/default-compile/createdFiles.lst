@@ -1,0 +1,9 @@
+com/it355/dao/ContactDao.class
+com/it355/mappers/ContactMapper.class
+com/it355/controllers/Contacts.class
+com/it355/models/Contact.class
+com/it355/models/User.class
+com/it355/dao/UserDao.class
+com/it355/mappers/UserMapper.class
+com/it355/services/LoginService.class
+com/it355/logers/ContactLogger.class
